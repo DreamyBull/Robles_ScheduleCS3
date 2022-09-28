@@ -44,7 +44,7 @@
     </tr>
     <tr>
  <th style = "border: 1px solid black;"> 9:55 - 10:25 AM  </th>
- <td style = "border: 1px solid black; background-color:aqua; text-align: center" colspan="5"> Morning break </td>   
+ <td style = "border: 1px solid black; background-color:aqua; text-align: center" colspan="5"> Morning Break </td>   
     </td>
 
     </tr>
