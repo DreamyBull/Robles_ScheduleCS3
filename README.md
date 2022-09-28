@@ -43,7 +43,7 @@
 <td style = "border: 1px solid black; background-color:orange"> MATH 3</td>
     </tr>
     <tr>
-<td style = "border: 1px solid black; background-color:aqua"> Morning Break </td>
+<td style = "span ="7" border: 1px solid black; background-color:aqua"> Morning Break </td>
     </tr>
 
     
