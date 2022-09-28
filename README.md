@@ -43,7 +43,8 @@
 <td style = "border: 1px solid black; background-color:orange"> MATH 3</td>
     </tr>
     <tr>
-<td style = "span ="7" border: 1px solid black; background-color:aqua"> Morning Break </td>
+ <th style = "border: 1px solid black;"> 9:55 - 10:25 AM  </th>
+<td style = "span ="7" border: 1px solid black; background-color:black; text-align: center" colspan ="6"> Morning Break </td>
     </tr>
 
     
