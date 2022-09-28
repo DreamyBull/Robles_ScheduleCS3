@@ -28,7 +28,6 @@
 </tr> 
 <tr>
 <th style = "border: 1px solid black"> 7:15AM - 8:05AM </th>
-<td style = "border: 1px solid black"> <th style = "border: 1px solid black"> 7:15AM - 8:05AM </th>
 <td style = "border: 1px solid black; background-color:"> HRA </th>
 <td style = "border: 1px solid black; background-color:blue"> BIO 1</th>
 <td style = "border: 1px solid black; background-color:blue"> BIO 1</th>
