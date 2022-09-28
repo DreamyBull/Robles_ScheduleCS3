@@ -20,16 +20,30 @@
 
 <tr>
 <th style = "border: 1px solid black"> 7:15AM - 8:05AM </th>
-<td style = "border: 1px solid black"> Flag Raising </th>
-<td style = "border: 1px solid black; background-color:green"> ENGLISH 3 </th>
-<td style = "border: 1px solid black; background-color:orange"> MATH 3 </th>
-<td style = "border: 1px solid black; background-color:yellow"> VAL ED 3 </th>
-<td style = "border: 1px solid black; background-color:purple"> MUSIC 3 </th>
+<td style = "border: 1px solid black"> Flag Raising </td>
+<td style = "border: 1px solid black; background-color:green"> ENGLISH 3 </td>
+<td style = "border: 1px solid black; background-color:orange"> MATH 3 </td>
+<td style = "border: 1px solid black; background-color:yellow"> VAL ED 3 </td>
+<td style = "border: 1px solid black; background-color:purple"> MUSIC 3 </td>
 </tr> 
 <tr>
-<th style = "border: 1px solid black"> 7:15AM - 8:05AM </th>
-<td style = "border: 1px solid black; background-color:"> HRA </th>
-<td style = "border: 1px solid black; background-color:blue"> BIO 1</th>
-<td style = "border: 1px solid black; background-color:blue"> BIO 1</th>
-<td style = "border: 1px solid black; background-color:blue"> BIO 1</th>
-<td style = "border: 1px solid black; background-color:red"> PE 3</th>
+<th style = "border: 1px solid black"> 8:10AM - 9:00AM </th>
+<td style = "border: 1px solid black; background-color:"> HRA </td>
+<td style = "border: 1px solid black; background-color:blue"> BIO 1</td>
+<td style = "border: 1px solid black; background-color:blue"> BIO 1</td>
+<td style = "border: 1px solid black; background-color:blue"> BIO 1</td>
+<td style = "border: 1px solid black; background-color:red"> PE 3</td>
+    </tr>
+    <tr>
+    <th style = "border: 1px solid black"> 8:10AM - 9:00AM </th>
+<td style = "border: 1px solid black; background-color:aqua"> PHYSICS </td>
+<td style = "border: 1px solid black; background-color:aqua"> PHYSICS 1</td>
+<td style = "border: 1px solid black; background-color:aqua"> PHYSICS 1</td>
+<td style = "border: 1px solid black; background-color:aqua"> MATH 1</td>
+<td style = "border: 1px solid black; background-color:orange"> MATH 3</td>
+    </tr>
+    <tr>
+<td style = "border: 1px solid black; background-color:aqua"> Morning Break </td>
+    </tr>
+
+    
